@@ -2,6 +2,8 @@
 
 This is a collection of articles that I really like and think are important. This collection is by no means complete, I'll be adding to it as I go along.
 
+---
+
 * http://rightnow.org.au/writing-cat/no-singular-revelation/
 
   No Singular Revelation - powerful piece about race and discrimination in Australia.
