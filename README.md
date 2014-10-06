@@ -15,3 +15,7 @@ This is a collection of articles that I really like and think are important. Thi
   Well written piece on category structure and oppression, and how our ideas of prototypical characteristics lead to othering.
 
   *Shweta Narayan*
+
+* http://www.shakesville.com/2009/10/rape-culture-101.html
+
+  Rape Culture 101 - really good intro article that talks about what rape culture is, and how it's such an insidious and systemic problem.
